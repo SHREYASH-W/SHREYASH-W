@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m Shreyash singh kushawah, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong focus on building real-world, impact-driven systems. I actively work on deep learning, computer vision, and LLM-based applications, combining research with practical deployment.<br><br>I’m the first author of an IEEE conference paper on AI-based accident detection and a patent holder for an emergency traffic coordination system using AI and edge computing. My projects range from a multimodal agricultural chatbot (LLMs + CNN + RAG) to large-scale infrastructure and inspection systems using deep learning.<br><br>I enjoy solving high-impact problems, experimenting with models, and turning ideas into scalable products. Currently, I’m focused on applied AI research, intelligent systems, and full-stack AI solutions.<br><br> Interests: AI Research, Deep Learning, Computer Vision, LLMs, Edge AI, Real-World ML Systems<br>3× National Hackathon Finalist | SIH 2024 Finalist | IEEE Author | Patent Contributor
 
 
