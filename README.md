@@ -7,7 +7,7 @@
   <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 12px 0 20px;"></div>
 
   <p style="margin: 0 0 28px; font-size: 1.1rem; line-height: 1.7; color: #dfe7f3; max-width: 1100px;">
-    I’m a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong focus on building real-world, impact-driven systems. I enjoy turning messy data into useful tools, models, and workflows that solve practical problems.
+    I’m a Software Engineer Intern and Computer Science student focused on building AI-first products, intelligent workflows, and production-ready backend systems. My work sits at the intersection of <strong>AI/ML</strong>, <strong>full-stack development</strong>, and <strong>practical problem solving</strong>—from RAG pipelines and agentic systems to scalable APIs and deployment-ready applications.
   </p>
 
   <h2 style="margin: 14px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
@@ -18,10 +18,10 @@
   <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
 
   <ul style="margin: 0; padding-left: 1.6rem; list-style: disc; color: #dfe7f3; font-size: 1.08rem; line-height: 1.8; max-width: 1100px;">
-    <li>Machine learning &amp; deep learning: classical ML and neural networks (CNNs, feed-forward) for prediction and classification on tabular, image, and signal data</li>
-    <li>GenAI &amp; LLM workflows: prompt engineering, RAG, semantic search, NER, and fine-tuning with the OpenAI and Anthropic APIs</li>
-    <li>Agentic coding &amp; automation: hands-on with <strong>Claude Code</strong> to automate document processing, data extraction, and dev workflows</li>
-    <li>Applied data science: inverse problems, Bayesian statistics, and end-to-end pipelines from raw data to deployed model</li>
+    <li>AI and machine learning systems: RAG pipelines, hybrid search, LLM workflows, and intelligent automation</li>
+    <li>Full-stack product engineering: FastAPI, Node.js, Next.js, React, and cloud-ready web applications</li>
+    <li>Applied ML and computer vision: classification, retrieval systems, and edge-aware AI solutions</li>
+    <li>Backend architecture and infrastructure: Python APIs, microservices, databases, Docker, and scalable deployment patterns</li>
   </ul>
 
   <h2 style="margin: 34px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
@@ -35,48 +35,40 @@
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
       <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Languages:</span>
       <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #4dd0ff; font-weight: 700;">Python</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #ffcc66; font-weight: 700;">SQL</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #35d399; font-weight: 700;">Bash</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #f69d50; font-weight: 700;">MATLAB</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #7bbcff; font-weight: 700;">R</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fbbf24; font-weight: 700;">JavaScript</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #60a5fa; font-weight: 700;">Java</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #34d399; font-weight: 700;">C++</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">C</span>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">ML / DL:</span>
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">AI / ML:</span>
       <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #c084fc; font-weight: 700;">PyTorch</span>
       <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #ff7f50; font-weight: 700;">TensorFlow</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #6ee7b7; font-weight: 700;">Keras</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #ffb455; font-weight: 700;">scikit-learn</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #fbbf24; font-weight: 700;">Hugging Face</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #9bd2ff; font-weight: 700;">Scikit-learn</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #fbbf24; font-weight: 700;">LangGraph</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #f9a8d4; font-weight: 700;">RAG</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #67e8f9; font-weight: 700;">ONNX</span>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">GenAI / NLP:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #c4b5fd; font-weight: 700;">OpenAI</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #f0abfc; font-weight: 700;">Anthropic</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #67e8f9; font-weight: 700;">Gemini</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #a5f3fc; font-weight: 700;">LangChain</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #f9a8d4; font-weight: 700;">KeyBERT</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #7dd3fc; font-weight: 700;">Tesseract OCR</span>
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Backend / web:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #67e8f9; font-weight: 700;">FastAPI</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #7dd3fc; font-weight: 700;">Node.js</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #34d399; font-weight: 700;">Express</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #a78bfa; font-weight: 700;">Next.js</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #f9a8d4; font-weight: 700;">React</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">Tailwind</span>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Data &amp; viz:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #67e8f9; font-weight: 700;">Pandas</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #7dd3fc; font-weight: 700;">NumPy</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">SciPy</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fde68a; font-weight: 700;">Jupyter</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #a78bfa; font-weight: 700;">Matplotlib</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #7dd3fc; font-weight: 700;">Plotly</span>
-    </div>
-
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Dev &amp; infra:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f766e; border: 1px solid rgba(45,212,191,.3); color: #99f6e4; font-weight: 700;">Docker</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #4c1d95; border: 1px solid rgba(168,85,247,.3); color: #ddd6fe; font-weight: 700;">Git</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #b45309; border: 1px solid rgba(251,191,36,.3); color: #fde68a; font-weight: 700;">Linux</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #cbd5e1; font-weight: 700;">LaTeX</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #065f46; border: 1px solid rgba(52,211,153,.3); color: #a7f3d0; font-weight: 700;">QGIS</span>
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Data &amp; infra:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #67e8f9; font-weight: 700;">PostgreSQL</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #a7f3d0; font-weight: 700;">MongoDB</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">Redis</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #99f6e4; font-weight: 700;">Docker</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fed7aa; font-weight: 700;">GitHub Actions</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fef3c7; font-weight: 700;">Git</span>
     </div>
   </div>
 
@@ -89,7 +81,7 @@
 
   <ul style="margin: 0; padding-left: 1.4rem; list-style: disc; color: #dfe7f3; font-size: 1.08rem; line-height: 1.9;">
     <li><a href="https://www.linkedin.com/in/shreyash-singh-a92218295/" style="color: #60a5fa; text-decoration: none;">LinkedIn</a></li>
-    <li><a href="mailto:shreyash.singh.7@icloud.com" style="color: #60a5fa; text-decoration: none;">shreyash.singh.7@icloud.com</a></li>
+    <li><a href="mailto:shreyashsingh205@gmail.com" style="color: #60a5fa; text-decoration: none;">shreyashsingh205@gmail.com</a></li>
   </ul>
 
 </div>
