@@ -2,7 +2,7 @@
 
 ---
 
-I’m a Software Engineer Intern and Computer Science student focused on building AI-first products, intelligent workflows, and production-ready backend systems. My work sits at the intersection of AI/ML, full-stack development, and practical problem solving—from RAG pipelines and agentic systems to scalable APIs and deployment-ready applications.
+I’m a Computer Science student focused on building AI-first products, intelligent workflows, and production-ready backend systems. My work sits at the intersection of AI/ML, full-stack development, and practical problem solving—from RAG pipelines and agentic systems to scalable APIs and deployment-ready applications.
 
 ## 🧠 What I'm working on
 
