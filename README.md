@@ -1,27 +1,95 @@
-#  About Me:
-I’m Shreyash singh kushawah, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong focus on building real-world, impact-driven systems. I actively work on deep learning, computer vision, and LLM-based applications, combining research with practical deployment.<br><br>I’m the first author of an IEEE conference paper on AI-based accident detection and a patent holder for an emergency traffic coordination system using AI and edge computing. My projects range from a multimodal agricultural chatbot (LLMs + CNN + RAG) to large-scale infrastructure and inspection systems using deep learning.<br><br>I enjoy solving high-impact problems, experimenting with models, and turning ideas into scalable products. Currently, I’m focused on applied AI research, intelligent systems, and full-stack AI solutions.<br><br> Interests: AI Research, Deep Learning, Computer Vision, LLMs, Edge AI, Real-World ML Systems<br>3× National Hackathon Finalist | SIH 2024 Finalist | IEEE Author | Patent Contributor
+<div align="left" style="max-width: 1180px; margin: 0 auto; padding: 8px 0 32px; color: #e5e7eb; background: #0b1220; font-family: Arial, Helvetica, sans-serif;">
 
+  <h1 style="margin: 0 0 18px; font-size: 3rem; font-weight: 800; color: #f3f4f6; line-height: 1.1;">
+    Hi, I'm Shreyash <img src="https://em-content.zobj.net/source/skype/289/waving-hand_1f44b.png" alt="waving hand" width="38" height="38" style="vertical-align: middle;" />
+  </h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-singh-a92218295/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashsingh205@gmail.com) 
+  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 12px 0 20px;"></div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHREYASH-W&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHREYASH-W&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASH-W&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <p style="margin: 0 0 28px; font-size: 1.1rem; line-height: 1.7; color: #dfe7f3; max-width: 1100px;">
+    I’m a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong focus on building real-world, impact-driven systems. I enjoy turning messy data into useful tools, models, and workflows that solve practical problems.
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHREYASH-W&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <h2 style="margin: 14px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.8rem;">🧠</span>
+    What I'm working on
+  </h2>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHREYASH-W&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <ul style="margin: 0; padding-left: 1.6rem; list-style: disc; color: #dfe7f3; font-size: 1.08rem; line-height: 1.8; max-width: 1100px;">
+    <li>Machine learning &amp; deep learning: classical ML and neural networks (CNNs, feed-forward) for prediction and classification on tabular, image, and signal data</li>
+    <li>GenAI &amp; LLM workflows: prompt engineering, RAG, semantic search, NER, and fine-tuning with the OpenAI and Anthropic APIs</li>
+    <li>Agentic coding &amp; automation: hands-on with <strong>Claude Code</strong> to automate document processing, data extraction, and dev workflows</li>
+    <li>Applied data science: inverse problems, Bayesian statistics, and end-to-end pipelines from raw data to deployed model</li>
+  </ul>
 
----
-[![](https://visitcount.itsvg.in/api?id=SHREYASH-W&icon=10&color=13)](https://visitcount.itsvg.in)
+  <h2 style="margin: 34px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.8rem;">⚙️</span>
+    Tech I work with
+  </h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
+
+  <div style="margin-bottom: 18px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Languages:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #4dd0ff; font-weight: 700;">Python</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #ffcc66; font-weight: 700;">SQL</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #35d399; font-weight: 700;">Bash</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #f69d50; font-weight: 700;">MATLAB</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #7bbcff; font-weight: 700;">R</span>
+    </div>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">ML / DL:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #c084fc; font-weight: 700;">PyTorch</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #ff7f50; font-weight: 700;">TensorFlow</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #6ee7b7; font-weight: 700;">Keras</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #ffb455; font-weight: 700;">scikit-learn</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #fbbf24; font-weight: 700;">Hugging Face</span>
+    </div>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">GenAI / NLP:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #c4b5fd; font-weight: 700;">OpenAI</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #f0abfc; font-weight: 700;">Anthropic</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #67e8f9; font-weight: 700;">Gemini</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #a5f3fc; font-weight: 700;">LangChain</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #f9a8d4; font-weight: 700;">KeyBERT</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #312e81; border: 1px solid rgba(129,140,248,.3); color: #7dd3fc; font-weight: 700;">Tesseract OCR</span>
+    </div>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Data &amp; viz:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #67e8f9; font-weight: 700;">Pandas</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #7dd3fc; font-weight: 700;">NumPy</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">SciPy</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fde68a; font-weight: 700;">Jupyter</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #a78bfa; font-weight: 700;">Matplotlib</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #7dd3fc; font-weight: 700;">Plotly</span>
+    </div>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Dev &amp; infra:</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f766e; border: 1px solid rgba(45,212,191,.3); color: #99f6e4; font-weight: 700;">Docker</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #4c1d95; border: 1px solid rgba(168,85,247,.3); color: #ddd6fe; font-weight: 700;">Git</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #b45309; border: 1px solid rgba(251,191,36,.3); color: #fde68a; font-weight: 700;">Linux</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #cbd5e1; font-weight: 700;">LaTeX</span>
+      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #065f46; border: 1px solid rgba(52,211,153,.3); color: #a7f3d0; font-weight: 700;">QGIS</span>
+    </div>
+  </div>
+
+  <h2 style="margin: 34px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.8rem;">📫</span>
+    Get in touch
+  </h2>
+
+  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
+
+  <ul style="margin: 0; padding-left: 1.4rem; list-style: disc; color: #dfe7f3; font-size: 1.08rem; line-height: 1.9;">
+    <li><a href="https://www.linkedin.com/in/shreyash-singh-a92218295/" style="color: #60a5fa; text-decoration: none;">LinkedIn</a></li>
+    <li><a href="mailto:shreyash.singh.7@icloud.com" style="color: #60a5fa; text-decoration: none;">shreyash.singh.7@icloud.com</a></li>
+  </ul>
+
+</div>
