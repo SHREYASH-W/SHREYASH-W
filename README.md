@@ -1,87 +1,31 @@
-<div align="left" style="max-width: 1180px; margin: 0 auto; padding: 8px 0 32px; color: #e5e7eb; background: #0b1220; font-family: Arial, Helvetica, sans-serif;">
+# Hi, I'm Shreyash 👋
 
-  <h1 style="margin: 0 0 18px; font-size: 3rem; font-weight: 800; color: #f3f4f6; line-height: 1.1;">
-    Hi, I'm Shreyash <img src="https://em-content.zobj.net/source/skype/289/waving-hand_1f44b.png" alt="waving hand" width="38" height="38" style="vertical-align: middle;" />
-  </h1>
+---
 
-  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 12px 0 20px;"></div>
+I’m a Software Engineer Intern and Computer Science student focused on building AI-first products, intelligent workflows, and production-ready backend systems. My work sits at the intersection of AI/ML, full-stack development, and practical problem solving—from RAG pipelines and agentic systems to scalable APIs and deployment-ready applications.
 
-  <p style="margin: 0 0 28px; font-size: 1.1rem; line-height: 1.7; color: #dfe7f3; max-width: 1100px;">
-    I’m a Software Engineer Intern and Computer Science student focused on building AI-first products, intelligent workflows, and production-ready backend systems. My work sits at the intersection of <strong>AI/ML</strong>, <strong>full-stack development</strong>, and <strong>practical problem solving</strong>—from RAG pipelines and agentic systems to scalable APIs and deployment-ready applications.
-  </p>
+## 🧠 What I'm working on
 
-  <h2 style="margin: 14px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.8rem;">🧠</span>
-    What I'm working on
-  </h2>
+- Machine learning and deep learning: classical ML, neural networks, and practical prediction systems for real-world data
+- GenAI and LLM workflows: prompt engineering, RAG, semantic retrieval, and task-specific AI pipelines
+- Full-stack engineering: FastAPI, Node.js, Next.js, React, and scalable production-ready application design
+- Applied data science and AI product engineering: data pipelines, model integration, automation, and system optimization
 
-  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
+## ⚙️ Tech I work with
 
-  <ul style="margin: 0; padding-left: 1.6rem; list-style: disc; color: #dfe7f3; font-size: 1.08rem; line-height: 1.8; max-width: 1100px;">
-    <li>AI and machine learning systems: RAG pipelines, hybrid search, LLM workflows, and intelligent automation</li>
-    <li>Full-stack product engineering: FastAPI, Node.js, Next.js, React, and cloud-ready web applications</li>
-    <li>Applied ML and computer vision: classification, retrieval systems, and edge-aware AI solutions</li>
-    <li>Backend architecture and infrastructure: Python APIs, microservices, databases, Docker, and scalable deployment patterns</li>
-  </ul>
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-  <h2 style="margin: 34px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.8rem;">⚙️</span>
-    Tech I work with
-  </h2>
+### AI / ML
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)](https://www.langchain.com/langgraph) [![RAG](https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) [![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/)
 
-  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
+### Backend / Web
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/) [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-  <div style="margin-bottom: 18px;">
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Languages:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #4dd0ff; font-weight: 700;">Python</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fbbf24; font-weight: 700;">JavaScript</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #60a5fa; font-weight: 700;">Java</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #34d399; font-weight: 700;">C++</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">C</span>
-    </div>
+### Data & Infra
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">AI / ML:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #c084fc; font-weight: 700;">PyTorch</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #ff7f50; font-weight: 700;">TensorFlow</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #9bd2ff; font-weight: 700;">Scikit-learn</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #fbbf24; font-weight: 700;">LangGraph</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #f9a8d4; font-weight: 700;">RAG</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #2d1f3a; border: 1px solid rgba(168,85,247,.3); color: #67e8f9; font-weight: 700;">ONNX</span>
-    </div>
+## 📫 Get in touch
 
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Backend / web:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #67e8f9; font-weight: 700;">FastAPI</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #7dd3fc; font-weight: 700;">Node.js</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #34d399; font-weight: 700;">Express</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #a78bfa; font-weight: 700;">Next.js</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #f9a8d4; font-weight: 700;">React</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">Tailwind</span>
-    </div>
-
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: 700; color: #f3f4f6; font-size: 1.05rem; margin-right: 6px;">Data &amp; infra:</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #67e8f9; font-weight: 700;">PostgreSQL</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #a7f3d0; font-weight: 700;">MongoDB</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #93c5fd; font-weight: 700;">Redis</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #99f6e4; font-weight: 700;">Docker</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fed7aa; font-weight: 700;">GitHub Actions</span>
-      <span style="display: inline-block; padding: 6px 12px; border-radius: 8px; background: #1e293b; border: 1px solid rgba(148,163,184,.3); color: #fef3c7; font-weight: 700;">Git</span>
-    </div>
-  </div>
-
-  <h2 style="margin: 34px 0 18px; font-size: 2.2rem; font-weight: 800; color: #f3f4f6; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.8rem;">📫</span>
-    Get in touch
-  </h2>
-
-  <div style="border-top: 1px solid rgba(148, 163, 184, 0.35); margin: 0 0 18px;"></div>
-
-  <ul style="margin: 0; padding-left: 1.4rem; list-style: disc; color: #dfe7f3; font-size: 1.08rem; line-height: 1.9;">
-    <li><a href="https://www.linkedin.com/in/shreyash-singh-a92218295/" style="color: #60a5fa; text-decoration: none;">LinkedIn</a></li>
-    <li><a href="mailto:shreyashsingh205@gmail.com" style="color: #60a5fa; text-decoration: none;">shreyashsingh205@gmail.com</a></li>
-  </ul>
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/shreyash-singh-a92218295/)
+- [shreyashsingh205@gmail.com](mailto:shreyashsingh205@gmail.com)
